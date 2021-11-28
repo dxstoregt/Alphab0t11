@@ -4,7 +4,7 @@
 	"antihidetag": true,
 	"user_register": false,
 	"anti_delete" : true,
-	"autovn" : true,
+	"autovn" : false,
 	"anticall": false,
 	"prefix": ".",
 	"language":"ind",
